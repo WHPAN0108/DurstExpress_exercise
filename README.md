@@ -1,7 +1,6 @@
 # DurstExpress_exercise
 Durstexpress data science application challenge
 
-Durstexpress data science application challenge
 Thank you for applying to work at Durstexpress and for taking the time to attempt this challenge!
 
 The purpose of the challenge is to assess your technical skill in data science. Should you be invited to an onsite interview, your solutions will also be the starting point for technical discussions at that interview.
@@ -20,3 +19,7 @@ Before you begin the challenge, please read the following instructions:
 1. Please explain your working. This doean't have to be extensive, but enough for someone reading your notebook to be able to understand what you have done.
 1. You need only consider linear models.
 1. Once you have completed the two tasks below, please email your .ipynb file to your contact person at Durstexpress HR.
+
+
+## Task 1: Quantitatively assess the impact of these factors on beer sales.
+## Task 2: Using only the dataset provided, can you find and quantitatively assess other factors affecting beer sales?
